@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+LocalProblem/main_eikonal
+LocalProblem/main_eikonal2D
+LocalProblem/make.dep
+LocalProblem/main_eikonal3D
